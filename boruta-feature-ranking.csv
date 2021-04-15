@@ -1,0 +1,9 @@
+features,rank
+Pregnancies,1
+Glucose,1
+Insulin,1
+BMI,1
+DiabetesPedigreeFunction,1
+Age,1
+SkinThickness,2
+BloodPressure,3
