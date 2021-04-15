@@ -4,7 +4,7 @@ from sklearn.ensemble import RandomForestClassifier
 from boruta import BorutaPy
 
 
-data_dir = "/home/paul/workspace/data-science/my-projects/data/diabetes/"
+data_dir = "../data/diabetes/"
 
 
 def load_data():
