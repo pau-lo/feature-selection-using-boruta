@@ -1,2 +1,4 @@
 # feature-selection-using-boruta
-Boruta feature selection using a simple dataset.
+
+
+Feature selection using boruta and saving the best features in a .csv file.
